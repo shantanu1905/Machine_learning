@@ -5,4 +5,4 @@ Machine learning using Python, ***A step towards Data Science and Machine Learni
 ## 1. regression
 - simple linear regression 
 
-*project name - stock market prediction* . link - *
+*project name - stock market prediction* . link - https://github.com/shantanu1905/Machine_learning/tree/main/Simple%20linear%20regression 
