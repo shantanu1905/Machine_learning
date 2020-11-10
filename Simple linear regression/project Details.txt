@@ -1,0 +1,8 @@
+Project name - stock market prediction using linear regression
+dataset used in project link - https://www.kaggle.com/rohanrao/nifty50-stock-market-data
+*In this project you can provide input data to predict the 'closing price' of stock .
+*Note- always give input as number of rows=1 , columns=3
+*enter data sequence wise as 1. open price
+                             2. high price
+                             3. low price
+*note predicted value maynot be accurate as error is not find.
